@@ -61,15 +61,6 @@ A Python-based project for comparing DNA sequences against a reference sequence 
 
 **Technologies:** Python, Biopython, FASTA
 
-[Project →](05_Projects/ATM_DNA_Variation_Analyzer/)
-
-### 2. Antimicrobial Susceptibility Research
-
-A research project involving bacterial culture, identification, antimicrobial susceptibility testing, and interpretation of experimental results.
-
-**Techniques:** Disc diffusion, agar well diffusion, MIC, MBC, FIC
-
-[Project →](05_Projects/Antimicrobial_Susceptibility/)
 
 ### 3. E. coli NGS Analysis
 
@@ -77,7 +68,6 @@ A practical learning project using publicly available sequencing data to develop
 
 **Currently learning:** FASTQ → Quality Control → Alignment → Variant Analysis
 
-[Project →](05_Projects/E_coli_NGS_Analysis/)
 
 ## 📚 Learning Journey
 
